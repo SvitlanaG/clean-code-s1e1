@@ -4,6 +4,9 @@ body {
   color: #333;
   font-family: Lato, sans-serif;
 }
+.header-title {
+  color: #f8f8f8;
+}
 .intro {
   width: 500px;
   margin: 0 auto;
@@ -97,7 +100,7 @@ label[for="new-task"] {
 #new-task {
   width: 318px;
 }
-p > button:hover {
+button:hover {
   color: #0fc57c;
 }
 
